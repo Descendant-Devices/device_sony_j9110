@@ -13,10 +13,10 @@
 # limitations under the License.
 
 # Inherit from those products. Most specific first.
-$(call inherit-product, device/sony/akatsuki/aosp_h9436.mk)
+$(call inherit-product, device/sony/griffin/aosp_j9110.mk)
 
-PRODUCT_NAME := descendant_h9436
-PRODUCT_DEVICE := akatsuki
-PRODUCT_MODEL := Xperia XZ3 Dual
+PRODUCT_NAME := aosp_j9110
+PRODUCT_DEVICE := griffin
+PRODUCT_MODEL := Xperia 1
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
