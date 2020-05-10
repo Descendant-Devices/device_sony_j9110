@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/descendant_h9436.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/descendant_j9110.mk
 
 COMMON_LUNCH_CHOICES += \
-    descendant_h9436-eng \
-    descendant_h9436-userdebug
+    descendant_j9110-eng \
+    descendant_j9110-userdebug
 
